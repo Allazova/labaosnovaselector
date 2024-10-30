@@ -1,0 +1,64 @@
+/* Общие настройки для body */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Красный */
+.main-title {
+    color: red;
+}
+
+/* Зеленый */
+.green {
+    color: green;
+}
+
+/* Синий */
+.blue {
+    color: blue;
+}
+
+/* Желтый */
+.yellow {
+    color: yellow;
+}
+
+/* Оранжевый */
+.orange {
+    color: orange;
+}
+
+/* Фиолетовый */
+.purple {
+    color: purple;
+}
+
+/* Розовый */
+.pink {
+    color: pink;
+}
+
+/* Серый */
+.gray {
+    color: gray;
+}
+
+/* Коричневый */
+.brown {
+    color: brown;
+}
+
+/* Черный */
+.black {
+    color: black;
+}
+
+/* Бордовый */
+.maroon {
+    color: maroon;
+}
+
+/* Белый */
+input#name::placeholder {
+    color: white;
+}
